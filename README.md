@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 Hello, this is my Github
-
 If you want to know me more
-
 follow my Git <br>
 
 <!--
