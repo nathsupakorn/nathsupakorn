@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Hello, this is my Github
-If you want to know me more
-follow my Git <br>
+- 🙋 Hello, this is my Github. If you want to know me more follow my Git
+
 
 <!--
 **nathsupakorn/nathsupakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
